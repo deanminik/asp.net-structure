@@ -12,6 +12,8 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
 
+using Microsoft.EntityFrameworkCore;
+
 namespace WebAPI
 {
     public class Startup
@@ -27,6 +29,9 @@ namespace WebAPI
         public void ConfigureServices(IServiceCollection services)
         {
 
+            services.AddDbContext<CoursesOnlineContext>(opt =>{
+               opt.UseSqlServer(Configuration.GetConnectionString("DefaultConnection"));//we add the string conection appsettings.js
+            }); 
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
@@ -44,7 +49,7 @@ namespace WebAPI
                 app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "WebAPI v1"));
             }
 
-            app.UseHttpsRedirection();
+            //app.UseHttpsRedirection();
 
             app.UseRouting();
 

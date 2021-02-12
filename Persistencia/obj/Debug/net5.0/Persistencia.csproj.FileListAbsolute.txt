@@ -1,0 +1,5 @@
+C:\c sharp\NETCORE\Persistencia\obj\Debug\net5.0\Persistencia.csprojAssemblyReference.cache
+C:\c sharp\NETCORE\Persistencia\obj\Debug\net5.0\Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\c sharp\NETCORE\Persistencia\obj\Debug\net5.0\Persistencia.AssemblyInfoInputs.cache
+C:\c sharp\NETCORE\Persistencia\obj\Debug\net5.0\Persistencia.AssemblyInfo.cs
+C:\c sharp\NETCORE\Persistencia\obj\Debug\net5.0\Persistencia.csproj.CoreCompileInputs.cache

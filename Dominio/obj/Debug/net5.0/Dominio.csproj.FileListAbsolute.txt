@@ -1,0 +1,12 @@
+C:\c sharp\NETCORE\Dominio\bin\Debug\net5.0\Dominio.deps.json
+C:\c sharp\NETCORE\Dominio\bin\Debug\net5.0\Dominio.dll
+C:\c sharp\NETCORE\Dominio\bin\Debug\net5.0\ref\Dominio.dll
+C:\c sharp\NETCORE\Dominio\bin\Debug\net5.0\Dominio.pdb
+C:\c sharp\NETCORE\Dominio\obj\Debug\net5.0\Dominio.csprojAssemblyReference.cache
+C:\c sharp\NETCORE\Dominio\obj\Debug\net5.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\c sharp\NETCORE\Dominio\obj\Debug\net5.0\Dominio.AssemblyInfoInputs.cache
+C:\c sharp\NETCORE\Dominio\obj\Debug\net5.0\Dominio.AssemblyInfo.cs
+C:\c sharp\NETCORE\Dominio\obj\Debug\net5.0\Dominio.csproj.CoreCompileInputs.cache
+C:\c sharp\NETCORE\Dominio\obj\Debug\net5.0\Dominio.dll
+C:\c sharp\NETCORE\Dominio\obj\Debug\net5.0\ref\Dominio.dll
+C:\c sharp\NETCORE\Dominio\obj\Debug\net5.0\Dominio.pdb
