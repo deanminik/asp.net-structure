@@ -1,0 +1,15 @@
+C:\c sharp\NETCORE\Persistencia\bin\Debug\net5.0\Persistencia.deps.json
+C:\c sharp\NETCORE\Persistencia\bin\Debug\net5.0\Persistencia.dll
+C:\c sharp\NETCORE\Persistencia\bin\Debug\net5.0\ref\Persistencia.dll
+C:\c sharp\NETCORE\Persistencia\bin\Debug\net5.0\Persistencia.pdb
+C:\c sharp\NETCORE\Persistencia\bin\Debug\net5.0\Dominio.dll
+C:\c sharp\NETCORE\Persistencia\bin\Debug\net5.0\Dominio.pdb
+C:\c sharp\NETCORE\Persistencia\obj\Debug\net5.0\Persistencia.csprojAssemblyReference.cache
+C:\c sharp\NETCORE\Persistencia\obj\Debug\net5.0\Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\c sharp\NETCORE\Persistencia\obj\Debug\net5.0\Persistencia.AssemblyInfoInputs.cache
+C:\c sharp\NETCORE\Persistencia\obj\Debug\net5.0\Persistencia.AssemblyInfo.cs
+C:\c sharp\NETCORE\Persistencia\obj\Debug\net5.0\Persistencia.csproj.CoreCompileInputs.cache
+C:\c sharp\NETCORE\Persistencia\obj\Debug\net5.0\Persistencia.csproj.CopyComplete
+C:\c sharp\NETCORE\Persistencia\obj\Debug\net5.0\Persistencia.dll
+C:\c sharp\NETCORE\Persistencia\obj\Debug\net5.0\ref\Persistencia.dll
+C:\c sharp\NETCORE\Persistencia\obj\Debug\net5.0\Persistencia.pdb

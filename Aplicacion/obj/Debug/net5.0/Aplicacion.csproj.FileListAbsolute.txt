@@ -1,0 +1,17 @@
+C:\c sharp\NETCORE\Aplicacion\bin\Debug\net5.0\Aplicacion.deps.json
+C:\c sharp\NETCORE\Aplicacion\bin\Debug\net5.0\Aplicacion.dll
+C:\c sharp\NETCORE\Aplicacion\bin\Debug\net5.0\ref\Aplicacion.dll
+C:\c sharp\NETCORE\Aplicacion\bin\Debug\net5.0\Aplicacion.pdb
+C:\c sharp\NETCORE\Aplicacion\bin\Debug\net5.0\Dominio.dll
+C:\c sharp\NETCORE\Aplicacion\bin\Debug\net5.0\Persistencia.dll
+C:\c sharp\NETCORE\Aplicacion\bin\Debug\net5.0\Dominio.pdb
+C:\c sharp\NETCORE\Aplicacion\bin\Debug\net5.0\Persistencia.pdb
+C:\c sharp\NETCORE\Aplicacion\obj\Debug\net5.0\Aplicacion.csprojAssemblyReference.cache
+C:\c sharp\NETCORE\Aplicacion\obj\Debug\net5.0\Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\c sharp\NETCORE\Aplicacion\obj\Debug\net5.0\Aplicacion.AssemblyInfoInputs.cache
+C:\c sharp\NETCORE\Aplicacion\obj\Debug\net5.0\Aplicacion.AssemblyInfo.cs
+C:\c sharp\NETCORE\Aplicacion\obj\Debug\net5.0\Aplicacion.csproj.CoreCompileInputs.cache
+C:\c sharp\NETCORE\Aplicacion\obj\Debug\net5.0\Aplicacion.csproj.CopyComplete
+C:\c sharp\NETCORE\Aplicacion\obj\Debug\net5.0\Aplicacion.dll
+C:\c sharp\NETCORE\Aplicacion\obj\Debug\net5.0\ref\Aplicacion.dll
+C:\c sharp\NETCORE\Aplicacion\obj\Debug\net5.0\Aplicacion.pdb
